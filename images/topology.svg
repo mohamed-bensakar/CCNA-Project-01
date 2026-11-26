@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 990" width="1500" height="990" font-family="Helvetica, Arial, sans-serif">
+<rect width="1500" height="990" fill="#ffffff"/>
+<rect x="20" y="130" width="460" height="640" rx="16" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="38" y="160" font-size="18" fill="#1d4ed8" text-anchor="start" font-weight="bold">ZONE 0  ·  OSPF area 0</text>
+<text x="38" y="180" font-size="13" fill="#374151" text-anchor="start">LAN 192.168.1.0/24 · VLAN 20 · gateway .1</text>
+<rect x="505" y="405" width="490" height="560" rx="16" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="523" y="435" font-size="18" fill="#15803d" text-anchor="start" font-weight="bold">ZONE 1  ·  OSPF area 1</text>
+<text x="523" y="455" font-size="13" fill="#374151" text-anchor="start">LAN 192.168.2.0/24 · VLAN 10 (IT) · virtual gateway .1</text>
+<rect x="1020" y="130" width="460" height="750" rx="16" fill="#faf5ff" stroke="#7e22ce" stroke-width="2"/>
+<text x="1038" y="160" font-size="18" fill="#7e22ce" text-anchor="start" font-weight="bold">ZONE 2  ·  OSPF area 2</text>
+<text x="1038" y="180" font-size="13" fill="#374151" text-anchor="start">Router-on-a-stick · VLANs 10 / 20 / 30</text>
+<line x1="750" y1="70" x2="750" y2="240" stroke="#dc2626" stroke-width="3"/>
+<line x1="750" y1="240" x2="630" y2="500" stroke="#dc2626" stroke-width="3"/>
+<line x1="750" y1="240" x2="870" y2="500" stroke="#dc2626" stroke-width="3"/>
+<line x1="750" y1="240" x2="1120" y2="240" stroke="#dc2626" stroke-width="3"/>
+<line x1="750" y1="240" x2="370" y2="300" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="370" y1="293" x2="160" y2="293" stroke="#0f766e" stroke-width="3.5"/>
+<line x1="370" y1="307" x2="160" y2="307" stroke="#0f766e" stroke-width="3.5"/>
+<line x1="160" y1="300" x2="140" y2="480" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="370" y1="300" x2="370" y2="480" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="370" y1="300" x2="250" y2="640" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="630" y1="500" x2="750" y2="670" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="870" y1="500" x2="750" y2="670" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="750" y1="670" x2="645" y2="850" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="750" y1="670" x2="860" y2="850" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="662" y1="500" x2="838" y2="500" stroke="#15803d" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="1120" y1="240" x2="1250" y2="400" stroke="#7e22ce" stroke-width="3.5"/>
+<line x1="1250" y1="400" x2="1130" y2="580" stroke="#7e22ce" stroke-width="3"/>
+<line x1="1250" y1="400" x2="1370" y2="580" stroke="#7e22ce" stroke-width="3"/>
+<line x1="1130" y1="580" x2="1370" y2="580" stroke="#7e22ce" stroke-width="3"/>
+<line x1="1250" y1="400" x2="1390" y2="270" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1250" y1="400" x2="1390" y2="340" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1130" y1="580" x2="1130" y2="720" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1130" y1="580" x2="1033" y2="580" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1033" y1="580" x2="1033" y2="800" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1033" y1="800" x2="1060" y2="800" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1370" y1="580" x2="1370" y2="720" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1370" y1="580" x2="1467" y2="580" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1467" y1="580" x2="1467" y2="800" stroke="#4b5563" stroke-width="2.5"/>
+<line x1="1467" y1="800" x2="1440" y2="800" stroke="#4b5563" stroke-width="2.5"/>
+<circle cx="750" cy="70" r="32" fill="#1d4ed8"/>
+<path d="M756 76 L767 87 m-8 0 l8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M744 64 L733 53 m8 0 l-8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M756 64 L767 53 m-8 0 l8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M744 76 L733 87 m8 0 l-8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="750" y="122" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="795" y="66" font-size="15" fill="#111827" text-anchor="start" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">ISP-R</text>
+<text x="795" y="86" font-size="12" fill="#374151" text-anchor="start" stroke="#ffffff" stroke-width="4" paint-order="stroke">route 192.168.0.0/20</text>
+<circle cx="750" cy="240" r="32" fill="#1d4ed8"/>
+<path d="M756 246 L767 257 m-8 0 l8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M744 234 L733 223 m8 0 l-8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M756 234 L767 223 m-8 0 l8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M744 246 L733 257 m8 0 l-8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="750" y="292" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="750" y="296" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">R-ZONE0</text>
+<text x="750" y="314" font-size="12" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">NAT/PAT · default route</text>
+<circle cx="630" cy="500" r="32" fill="#1d4ed8"/>
+<path d="M636 506 L647 517 m-8 0 l8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M624 494 L613 483 m8 0 l-8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M636 494 L647 483 m-8 0 l8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M624 506 L613 517 m8 0 l-8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="630" y="552" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">R-ZONE1</text>
+<circle cx="870" cy="500" r="32" fill="#1d4ed8"/>
+<path d="M876 506 L887 517 m-8 0 l8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M864 494 L853 483 m8 0 l-8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M876 494 L887 483 m-8 0 l8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M864 506 L853 517 m8 0 l-8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="870" y="552" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">R2-ZONE1</text>
+<circle cx="1120" cy="240" r="32" fill="#1d4ed8"/>
+<path d="M1126 246 L1137 257 m-8 0 l8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1114 234 L1103 223 m8 0 l-8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1126 234 L1137 223 m-8 0 l8 0 l0 8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1114 246 L1103 257 m8 0 l-8 0 l0 -8" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="1120" y="292" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">R-ZONE2</text>
+<text x="1120" y="312" font-size="12" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">ACLs on VLAN 10 / 20</text>
+<text x="750" y="145" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">200.1.1.0/30</text>
+<text x="750" y="163" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">.2 Se0/0/0  —  Se0/0/0 .1</text>
+<text x="645" y="355" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">192.168.4.0/30</text>
+<text x="645" y="372" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Se0/0/1 — Se0/0/0</text>
+<text x="850" y="355" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">192.168.8.0/30</text>
+<text x="850" y="372" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Se0/1/1 — Se0/0/0</text>
+<text x="920" y="222" font-size="13" fill="#b91c1c" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">192.168.5.0/30</text>
+<text x="920" y="262" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Se0/1/0 — Se0/0/0</text>
+<text x="560" y="258" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Gi0/0 .1 — Fa0/6</text>
+<text x="750" y="484" font-size="13" fill="#15803d" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">HSRP group 10</text>
+<text x="750" y="522" font-size="12" fill="#15803d" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">VIP 192.168.2.1</text>
+<text x="660" y="590" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Gi0/1 .3</text>
+<text x="842" y="590" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Gi0/0 .2</text>
+<text x="265" y="278" font-size="12" fill="#0f766e" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">EtherChannel (LACP)</text>
+<text x="265" y="332" font-size="11" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">Fa0/22 + Fa0/24</text>
+<text x="1195" y="340" font-size="12" fill="#7e22ce" text-anchor="end" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">802.1Q trunk</text>
+<text x="1250" y="600" font-size="12" fill="#7e22ce" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">trunk</text>
+<rect x="328" y="280" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M348 293 L392 293 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M392 307 L348 307 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="370" y="338" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch2</text>
+<rect x="118" y="280" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M138 293 L182 293 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M182 307 L138 307 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="160" y="338" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch1</text>
+<rect x="65.0" y="455" width="150" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="140" y="476" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC13 – PC17</text>
+<text x="140" y="494" font-size="12" fill="#374151" text-anchor="middle">5 PCs (DHCP)</text>
+<rect x="295.0" y="455" width="150" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="370" y="476" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC0 – PC4</text>
+<text x="370" y="494" font-size="12" fill="#374151" text-anchor="middle">5 PCs (DHCP)</text>
+<rect x="175.0" y="615" width="150" height="50" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="250" y="636" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">DHCP-Z0</text>
+<text x="250" y="654" font-size="12" fill="#374151" text-anchor="middle">192.168.1.100</text>
+<rect x="708" y="650" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M728 663 L772 663 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M772 677 L728 677 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="750" y="708" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="750" y="712" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch3</text>
+<rect x="570.0" y="825" width="150" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="645" y="846" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC9 – PC12</text>
+<text x="645" y="864" font-size="12" fill="#374151" text-anchor="middle">4 PCs (DHCP)</text>
+<rect x="785.0" y="825" width="150" height="50" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="860" y="846" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">DHCP-Z1</text>
+<text x="860" y="864" font-size="12" fill="#374151" text-anchor="middle">192.168.2.100</text>
+<rect x="1208" y="380" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M1228 393 L1272 393 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1272 407 L1228 407 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="1250" y="438" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="1250" y="446" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch0</text>
+<text x="1250" y="464" font-size="12" fill="#1f2937" text-anchor="middle" stroke="#ffffff" stroke-width="4" paint-order="stroke">VLAN 10 access</text>
+<rect x="1088" y="560" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M1108 573 L1152 573 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1152 587 L1108 587 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="1130" y="618" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="1075" y="618" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch6</text>
+<rect x="1328" y="560" width="84" height="40" rx="7" fill="#0f766e"/>
+<path d="M1348 573 L1392 573 m-8 -5 l8 5 l-8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<path d="M1392 587 L1348 587 m8 -5 l-8 5 l8 5" stroke="#fff" stroke-width="2.5" fill="none"/>
+<text x="1370" y="618" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke"></text>
+<text x="1425" y="618" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold" stroke="#ffffff" stroke-width="4" paint-order="stroke">Switch5</text>
+<rect x="1315.0" y="245" width="150" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="1390" y="266" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC18 – PC21</text>
+<text x="1390" y="284" font-size="12" fill="#374151" text-anchor="middle">Marketing .3.0/24</text>
+<rect x="1315.0" y="315" width="150" height="50" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="1390" y="336" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">DHCP-VLAN10</text>
+<text x="1390" y="354" font-size="12" fill="#374151" text-anchor="middle">192.168.3.50</text>
+<rect x="1045.0" y="695" width="170" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="1130" y="716" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC22 – PC24</text>
+<text x="1130" y="734" font-size="12" fill="#374151" text-anchor="middle">Admins .7.0/24</text>
+<rect x="1045.0" y="775" width="170" height="50" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="1130" y="796" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">DHCP-VLAN30</text>
+<text x="1130" y="814" font-size="12" fill="#374151" text-anchor="middle">192.168.7.100</text>
+<rect x="1285.0" y="695" width="170" height="50" rx="8" fill="#ffffff" stroke="#6b7280" stroke-width="1.5"/>
+<text x="1370" y="716" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">PC25 – PC27</text>
+<text x="1370" y="734" font-size="12" fill="#374151" text-anchor="middle">Finance .6.0/24</text>
+<rect x="1285.0" y="775" width="170" height="50" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="1370" y="796" font-size="13" fill="#111827" text-anchor="middle" font-weight="bold">DHCP-VLAN20</text>
+<text x="1370" y="814" font-size="12" fill="#374151" text-anchor="middle">192.168.6.100</text>
+</svg>
